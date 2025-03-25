@@ -12,10 +12,10 @@ Image converter transforms images into cartoon style representation using OpenCV
 ## Output
 - **Images That Work Well**: Images with simple colors and strong outlines
 <img src="https://github.com/user-attachments/assets/93c15d43-871f-48d6-aaee-6389ccb1ccea" width="50%">
-<img src="https://github.com/user-attachments/assets/003c5979-547f-4f98-b8ca-3901c56f1e4e" width="50%">  
+<img src="https://github.com/user-attachments/assets/003c5979-547f-4f98-b8ca-3901c56f1e4e" width="50%">
 
 - **Images That Do Not Work Well**: Images with blurry edges
 <img src="https://github.com/user-attachments/assets/64e16585-c686-4b7c-a971-552fa206fcd7" width="50%">
-<img src="https://github.com/user-attachments/assets/f0518148-650b-4398-9727-495e1f64e4a9" width="50%">  
+<img src="https://github.com/user-attachments/assets/f0518148-650b-4398-9727-495e1f64e4a9" width="50%">
 
 - **Limitations of the Algorithm**: Images with soft or blurry edges may not produce clear contours, leading to less defined cartoon effects. The algorithm relies on strong edges for effective segmentation.
