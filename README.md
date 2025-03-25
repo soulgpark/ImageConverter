@@ -12,7 +12,7 @@ Image converter transforms images into cartoon style representation using OpenCV
 ## Output
 **Images That Work Well**
 Images with simple colors and strong outlines
-![realcat](https://github.com/user-attachments/assets/bdca0abe-e817-4f41-9480-6e5e7cb1376d)
+![realcat](https://github.com/user-attachments/assets/93c15d43-871f-48d6-aaee-6389ccb1ccea)
 ![cat](https://github.com/user-attachments/assets/003c5979-547f-4f98-b8ca-3901c56f1e4e)
 
 **Images That Do Not Work Well**
